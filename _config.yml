@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Biao Yang"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor in Finance, Antai College of Economics and Management, Shanghai Jiao Tong University"
+  bio              : "Assistant Professor in Finance\nAntai College of Economics and Management\nShanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=fNHC9t4AAAAJ&hl="
+  googlescholar    : "https://scholar.google.com/citations?user=fNHC9t4AAAAJ&hl="
   email            : "biao.yang@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
