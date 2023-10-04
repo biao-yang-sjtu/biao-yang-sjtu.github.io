@@ -1,5 +1,5 @@
 ---
-title: "[<span style='color: $link-color-hover;'>Market efficiency of cryptocurrency: evidence from the Bitcoin market</span>](https://www.nature.com/articles/s41598-023-31618-4)"
+title: "[<span style='color: "#52adc8";'>Market efficiency of cryptocurrency: evidence from the Bitcoin market</span>](https://www.nature.com/articles/s41598-023-31618-4)"
 collection: publications
 permalink: 'https://www.nature.com/articles/s41598-023-31618-4'
 excerpt: '**The paper finds that Bitcoin is evolving into an efficient market, where speculators might encounter difficulty in exploiting profitable trading strategies**'
