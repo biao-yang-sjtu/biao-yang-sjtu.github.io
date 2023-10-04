@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Biao Yang"
   avatar           : "profile.jpg"
-  bio              : >
+  bio              : |
                      Assistant Professor in Finance
                      Antai College of Economics and Management
-                     Shanghai Jiao Tong University"
+                     Shanghai Jiao Tong University
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
