@@ -13,4 +13,4 @@ Hi, I am Biao Yang (Chinese: 杨彪). I am an Assistant Professor of Finance at 
 
 My research
 ======
-I consider myself as a theorist given my interest in mathematical representations of economic and financial activities. My main study unveils the impacts of climate change on the financial market through modeling interactions between climate conditions and economic productions. I have been working on other projects (thanks to my brilliant coauthors)   involving global climate sentiment, ESG risk, and option pricing.
+I consider myself as a theorist given my interest in mathematical representations of economic and financial activities. My main study unveils the impacts of climate change on the financial market through modeling interactions between climate conditions and economic productions. I have been working on other projects (thanks to my brilliant coauthors!)   involving global climate news shock, ESG risk, and option pricing.
