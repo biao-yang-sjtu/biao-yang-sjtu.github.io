@@ -7,30 +7,29 @@ redirect_from:
   - /markdown2.html
 ---
 
-Me and my research team in Seoul (2017-01-21)
+(**NEW!**) Me and my Ph.D> classmates meeting at EEA, Barcelona (2023-08-30)
 
 <br/><img src='/images/5.jpg'>
 
 ***
+Starting a new life as AP! :blush: (2022-09-05)
 
-## Fixed Income Security
+<br/><img src='/images/4.jpg'>
 
-* Undergraduate course
-* every fall semester (September - December) from 2023
-* *Shanghai Jiao Tong University*
+***
+Finanlly, graduated as a Ph.D. (2022-06-20)
 
+<br/><img src='/images/3.jpg'>
 
-## Academic Writing, Guidance and Ethics
+***
+Nice photo for the *Advanced Asset Pricing* class   (2018-03-14)
 
-* Postgraduate course
-* every fall semester (October - November) from 2022
-* *Shanghai Jiao Tong University*
+<br/><img src='/images/2.jpg'>
 
+***
+Me and my research team in Seoul (2017-01-21)
 
-## Research Methods and Academic Writing
+<br/><img src='/images/1.jpg'>
 
-* Undergraduate course
-* every Spring semester (March - June) from 2022
-* *Shanghai Jiao Tong University*
-
+ 
  
