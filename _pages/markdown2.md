@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Teaching"
+permalink: /markdown2/
+title: "Some Nice Pics"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /markdown2.html
 ---
 
 ## Empirical Asset Pricing
@@ -16,13 +16,15 @@ redirect_from:
 
 ## Fixed Income Security
 
-* Undergraduate course, every fall semester (September - December) from 2023
+* Undergraduate course
+* every fall semester (September - December) from 2023
 * *Shanghai Jiao Tong University*
 
 
 ## Academic Writing, Guidance and Ethics
 
-* Postgraduate course, every fall semester (October - November) from 2022
+* Postgraduate course
+* every fall semester (October - November) from 2022
 * *Shanghai Jiao Tong University*
 
 
