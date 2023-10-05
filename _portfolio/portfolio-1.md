@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Explaining Greenium in a Macro-Finance Integrated Assessment Model"
+excerpt: "My job market paper, explains the green stock return patterns in a production-based asset pricing model. [ssrn link here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3854432)"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**Abstract** How do firms' environmental performances affect cross-sectional expected stock returns? Using a third-party ESG score, I find that greener stocks have lower expected returns. This greenium remains significant after controlling for systematic and idiosyncratic risks. Green stocks hedge climate-related disasters, contributing to the greenium. A macro-finance integrated assessment model featuring time-varying climate damage intensity, recursive preferences, and investment frictions quantitatively explains the empirical findings. The model implies a positive covariance between climate damages and consumption, which justifies a high discount rate and a low present value of carbon emission. 

@@ -1,5 +1,5 @@
 ---
-title: "[<span style='color: #0080ff;'>Modeling GDP Fluctuations with Agent-Based Model</span>](https://www.sciencedirect.com/science/article/abs/pii/S0378437118300955)"
+title: "[<span style='color: black;'>Modeling GDP Fluctuations with Agent-Based Model</span>](https://www.sciencedirect.com/science/article/abs/pii/S0378437118300955)"
 collection: publications
 permalink: 'https://www.sciencedirect.com/science/article/abs/pii/S0378437118300955'
 excerpt: ''
