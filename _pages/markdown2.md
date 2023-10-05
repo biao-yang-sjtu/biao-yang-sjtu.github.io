@@ -7,17 +7,17 @@ redirect_from:
   - /markdown2.html
 ---
 
-(**NEW!**) Me and my Ph.D> classmates meeting at EEA, Barcelona (2023-08-30)
+(**NEW!**) Me and my Ph.D. classmates meeting at EEA, Barcelona (2023-08-30)
 
 <br/><img src='/images/5.jpg'>
 
 ***
-Starting a new life as AP! :blush: (2022-09-05)
+Starting a new life as an AP! :smile: (2022-09-05)
 
 <br/><img src='/images/4.jpg'>
 
 ***
-Finanlly, graduated as a Ph.D. (2022-06-20)
+Finanlly, becoming Dr. Yang (2022-06-20)
 
 <br/><img src='/images/3.jpg'>
 
