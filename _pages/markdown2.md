@@ -12,7 +12,7 @@ redirect_from:
 <br/><img src='/images/5.jpg'>
 
 ***
-Starting a new life as an AP! :smile: (2022-09-05)
+Starting a new life as an AP! 😊 (2022-09-05)
 
 <br/><img src='/images/4.jpg'>
 
