@@ -16,13 +16,15 @@ redirect_from:
 
 ## Fixed Income Security
 
-* Undergraduate course, every fall semester (September - December) from 2023
+* Undergraduate course
+* every fall semester (September - December) from 2023
 * *Shanghai Jiao Tong University*
 
 
 ## Academic Writing, Guidance and Ethics
 
-* Postgraduate course, every fall semester (October - November) from 2022
+* Postgraduate course
+* every fall semester (October - November) from 2022
 * *Shanghai Jiao Tong University*
 
 

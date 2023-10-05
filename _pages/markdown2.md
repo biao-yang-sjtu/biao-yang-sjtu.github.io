@@ -1,17 +1,15 @@
 ---
 permalink: /markdown2/
-title: "Some Nice Pics"
+title: "Some Nice Pictures"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown2.html
 ---
 
-## Empirical Asset Pricing
+#### Empirical Asset Pricing
 
-* Ph.D. course
-* every fall semester (September - December) from 2022
-* *Shanghai Jiao Tong University*
+<br/><img src='/images/5.png'>
 
 
 ## Fixed Income Security
