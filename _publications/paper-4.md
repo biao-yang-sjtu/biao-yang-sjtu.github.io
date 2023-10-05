@@ -1,5 +1,5 @@
 ---
-title: "[<span style='color: #0080ff;'>Modeling Stock Return Distributions with a Quantum Harmonic Oscillator</span>](https://iopscience.iop.org/article/10.1209/0295-5075/120/38003/meta)"
+title: "Modeling Stock Return Distributions with a Quantum Harmonic Oscillator"
 collection: publications
 permalink: 'https://iopscience.iop.org/article/10.1209/0295-5075/120/38003/meta'
 excerpt: ''
