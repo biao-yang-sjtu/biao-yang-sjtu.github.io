@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "[<span style='color: #0080ff;'>Modeling GDP Fluctuations with Agent-Based Model</span>](https://www.sciencedirect.com/science/article/abs/pii/S0378437118300955)"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: 'https://www.sciencedirect.com/science/article/abs/pii/S0378437118300955'
+excerpt: ''
+date: 2018-08-01
+venue: ' Physica A: Statistical Mechanics and its Applications Volume'
+paperurl: ''
+citation: 'Chu, Z., Yang, B., Ha, C. Y., & Ahn, K. (2018). Modeling GDP fluctuations with agent-based model. Physica A: Statistical Mechanics and its Applications, 503, 572-581.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

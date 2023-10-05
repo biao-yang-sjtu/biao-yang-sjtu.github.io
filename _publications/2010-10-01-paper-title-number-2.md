@@ -1,10 +1,10 @@
 ---
-title: "[<span style='color: #52ADC8;'>Market efficiency of cryptocurrency: evidence from the Bitcoin market</span>](https://www.nature.com/articles/s41598-023-31618-4)"
+title: "[<span style='color: #52ADC8;'>Stock Market Uncertainty and Economic Fundamentals: an Entropy-Based Approach</span>](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1579922)"
 collection: publications
-permalink: 'https://www.nature.com/articles/s41598-023-31618-4'
-excerpt: '**The paper finds that Bitcoin is evolving into an efficient market, where speculators might encounter difficulty in exploiting profitable trading strategies**'
-date: 2023-03-23
-venue: 'Scientific Reports'
+permalink: 'https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1579922'
+excerpt: ''
+date: 2019-03-19
+venue: 'Quantitative Finance'
 paperurl: ''
-citation: 'Yi, E., Yang, B., Jeong, M., Sohn, S., & Ahn, K. (2023). Market efficiency of cryptocurrency: evidence from the Bitcoin market. Scientific Reports, 13(1), 4789.'
+citation: 'Ahn, K., Lee, D., Sohn, S., & Yang, B. (2019). Stock market uncertainty and economic fundamentals: an entropy-based approach. Quantitative Finance, 19(7), 1151-1163.'
 ---
