@@ -1,5 +1,5 @@
 ---
-title: "[<span style='color: $info-color;'>Market efficiency of cryptocurrency: evidence from the Bitcoin market</span>](https://www.nature.com/articles/s41598-023-31618-4)"
+title: "Market efficiency of cryptocurrency: evidence from the Bitcoin market"
 collection: publications
 permalink: 'https://www.nature.com/articles/s41598-023-31618-4'
 excerpt: ''
