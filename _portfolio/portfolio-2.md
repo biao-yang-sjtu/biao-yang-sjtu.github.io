@@ -1,6 +1,6 @@
 ---
 title: "Green Investing, Information Asymmetry, and Capital Structure"
-excerpt: "Co-authored with Shasha Li (IWH, Germany). [ssrn link here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4589189)"
+excerpt: "Co-authored with Shasha Li (IWH, Germany). [SSRN link here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4589189)"
 collection: portfolio
 ---
 
