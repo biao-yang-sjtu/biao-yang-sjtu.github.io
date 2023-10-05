@@ -7,10 +7,11 @@ redirect_from:
   - /markdown2.html
 ---
 
-#### Empirical Asset Pricing
+Me and my research team in Seoul (2017-01-21)
 
-<br/><img src='/images/5.png'>
+<br/><img src='/images/5.jpg'>
 
+***
 
 ## Fixed Income Security
 
