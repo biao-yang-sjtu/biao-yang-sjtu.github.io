@@ -17,7 +17,7 @@ Starting a new life as an AP! 😊 (2022-09-05)
 <br/><img src='/images/4.jpg'>
 
 ***
-Finanlly, becoming Dr. Yang (2022-06-20)
+Finally, becoming Dr. Yang (2022-06-20)
 
 <br/><img src='/images/3.jpg'>
 
