@@ -1,5 +1,5 @@
 ---
-title: "International Climate News Shock"
+title: "International Climate News"
 excerpt: "Co-authored with Mariano Massimiliano Croce (Bocconi), Riccardo Colacito (UNC), and Maria Jose  Arteaga-Garavito (Bocconi). [SSRN link here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4713016)"
 collection: portfolio
 ---
