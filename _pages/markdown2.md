@@ -7,7 +7,12 @@ redirect_from:
   - /markdown2.html
 ---
 
-(**NEW!**) Me and my Ph.D. classmates meeting at EEA, Barcelona (2023-08-30)
+2024 IAAE Annual Meeting, Xiamen 
+
+<br/><img src='/images/6.jpg'>
+
+***
+Me and my Ph.D. classmates meeting at EEA, Barcelona (2023-08-30)
 
 <br/><img src='/images/5.jpg'>
 
