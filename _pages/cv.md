@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can download my CV [here]<a href="/files/cv.pdf" download>Download File</a>
+You can download my CV <a href="/files/cv.pdf" download>here</a>
