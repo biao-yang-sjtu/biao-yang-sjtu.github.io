@@ -1,6 +1,6 @@
 ---
 title: "The Spillover of Corporate ES on Cost of Debt"
-excerpt: "Co-authored with Danmo Lin (Warwick Business School, UK) and Siti Farida (Birmingham Business School, UK). Work in progress"
+excerpt: "Co-authored with Danmo Lin (Warwick Business School, UK) and Siti Farida (Birmingham Business School, UK). [SSRN link here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988359)"
 collection: portfolio
 ---
 
