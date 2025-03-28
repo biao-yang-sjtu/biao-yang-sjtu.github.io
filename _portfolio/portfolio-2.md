@@ -1,5 +1,5 @@
 ---
-title: "<a href="/files/cv.pdf" download>International Climate News</a>"
+title: "International Climate News [PDF](https://www.dropbox.com/scl/fi/1oa9jx5togjmi73swrntp/ACCY_19.pdf?rlkey=5bhamb8dx0iqtz6dkylsw0up5&dl=0)"
 excerpt: "Co-authored with Mariano Massimiliano Croce (Bocconi), Riccardo Colacito (UNC), and Maria Jose  Arteaga-Garavito (Bocconi). [SSRN link here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4713016)"
 collection: portfolio
 ---
