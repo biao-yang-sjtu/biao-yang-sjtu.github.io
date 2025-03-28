@@ -1,6 +1,7 @@
 ---
 title: "Explaining Greenium in a Macro-Finance Integrated Assessment Model"
 excerpt: "My job market paper explains the green stock return patterns in a production-based asset pricing model. [SSRN link here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3854432)
+\n\n
 
 **Abstract**  
 
