@@ -1,5 +1,5 @@
 ---
-title: "<a href='/files/paper1.pdf' target='_blank' style='color: #6fa9c8;'>Explaining Greenium in a Macro-Finance Integrated Assessment Model</a>"
+title: "<a href='/files/paper1.pdf' target='_blank' style='color: #086284;'>Explaining Greenium in a Macro-Finance Integrated Assessment Model</a>"
 excerpt: "My job market paper explains the green stock return patterns in a production-based asset pricing model. [SSRN link here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3854432)
 \n\n
 **Abstract**  
