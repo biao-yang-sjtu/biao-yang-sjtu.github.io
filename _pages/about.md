@@ -9,7 +9,7 @@ redirect_from:
 ---
 
  
-Hi, I am Biao Yang (Chinese: 杨彪). I am an Assistant Professor of Finance at [Antai College of Economics and Management](https://www.acem.sjtu.edu.cn/en/) in Shanghai Jiao Tong University. I obtained my Ph.D. in Economics and Finance from Bocconi University in 2022.  
+Hi, I am Biao Yang (Chinese: 杨彪). I am an Assistant Professor of Finance at [Antai College of Economics and Management](https://www.acem.sjtu.edu.cn/en/) in Shanghai Jiao Tong University. I obtained my Ph.D. in Economics and Finance from Bocconi University.  
 
 My research
 ======
