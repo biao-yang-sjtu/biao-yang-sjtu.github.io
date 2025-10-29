@@ -1,5 +1,5 @@
 ---
-title: "<a href='/files/MFIAM6.pdf' target='_blank' style='color:rgb(0, 140, 191);'>Explaining Greenium in a Macro-Finance Integrated Assessment Model</a>"
+title: "<a href='/files/MFIAM6.pdf' target='_blank' style='color:rgb(0, 140, 191);'>Explaining Green Returns in a Production Economy</a>"
 excerpt: "My job market paper explains the green stock return patterns in a production-based asset pricing model. [SSRN link here](https://ssrn.com/abstract=3854432)
 \n\n
 **Abstract**  
