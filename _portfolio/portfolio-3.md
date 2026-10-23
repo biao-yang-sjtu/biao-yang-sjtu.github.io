@@ -1,5 +1,5 @@
 ---
-title: "<a href='/files/BeyondBenefit.pdf' target='_blank' style='color:rgb(0, 140, 191);'>Uncertainty and Market Efficiency: An Information Choice Perspective</a>"
+title: "<span style='color:rgb(0, 140, 191);'>Uncertainty and Market Efficiency: An Information Choice Perspective</span>"
 excerpt: "Co-authored with Harrison Ham (Clemson University), Zhongjin Lu (University of Georgia), Wang Renxuan (CEIBS), and Katherine Wood (Bentley University). 
 \n\n
 **Abstract**  
